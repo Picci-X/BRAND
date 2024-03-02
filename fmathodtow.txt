@@ -1,0 +1,1 @@
+"[FBAN/Orca-Android;FBAV/423.0.0.25.113;FBPN/com.facebook.orca;FBLC/en_US;FBBV/"+str(random.randint(444444444,666666666))+";FBCR/AT&amp;amp-T;FBMF/samsung;FBBD/samsung;FBDV/SM-"+str(random.choice(_samsung_))+";FBSV/"+str(random.randint(6,15))+";FBCA/arm64-v8a:null;FBDM/{density=1.75,width=720,height=1471};FB_FW/1;] FBBK/1"
